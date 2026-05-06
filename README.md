@@ -35,4 +35,4 @@ Matplotlib · Seaborn · SAP · Excel + Power Query
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/alejandro-pujana-quintero/) ·
-[Email](apujanaq@gmail.com)
+[Email](mailto:apujanaq@gmail.com)
