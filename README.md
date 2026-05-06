@@ -1,16 +1,38 @@
-## Hi there 👋
+## Alejandro Pujana Quintero
 
-<!--
-**apujanaq/apujanaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist turned Data Scientist. Currently completing an MSc in Data Science & AI.
 
-Here are some ideas to get you started:
+I work at the intersection of economic analysis and data — building pipelines,
+running models, and turning messy data into decisions that make sense to
+non-technical stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · Pandas · NumPy · Scikit-learn · SQL · Power BI ·
+Matplotlib · Seaborn · SAP · Excel + Power Query
+
+---
+
+### What I'm working on
+
+- **Football analytics project** — building an end-to-end pipeline using FBref
+  and mplsoccer to answer concrete questions about player and team performance
+  in top European leagues
+- **Statistical analysis of credit risk** — EDA, OLS regression, and time series
+  on real loan data, with economic interpretation of results
+
+---
+
+### Background
+
+- MSc Data Science & AI — in progress
+- Economics degree — quantitative focus, econometrics
+- Workplace Experience Intern at PMI — led fuel consumption analysis for the
+  vehicle fleet (SAP + Coupa), built Excel/Power Query templates for purchase
+  order tracking and budget execution, documented critical processes to reduce
+  operational dependency
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/alejandro-pujana-quintero/) ·
+[Email](apujanaq@gmail.com)
